@@ -1,7 +1,10 @@
 # txt2img
 Stable diffusion offline txt2image program made with python.
 
-# Requirements
+## Instructions
+[20250204 txt2img v1 program usage tutorial](https://www.youtube.com/watch?v=oWH21B5XRZQ) (YouTube video)
+
+## Requirements
 SD supported downloaded model for example:
 [realismByStableYogi_sd15V9.safetensors](https://civitai.com/api/download/models/66991?type=Model&format=SafeTensor&size=full&fp=fp16)
 or
@@ -9,10 +12,10 @@ or
 
 Recommended 8GB RAM or VRAM and 15GB disk space
 
-# Credits
+## Credits
 Sergei Kokota (Artist)
 Stable_Yogi (Models)
 Stable Diffusion (Research)
 
-# Stable Diffusion license:
+## Stable Diffusion license:
 https://github.com/CompVis/stable-diffusion/blob/main/LICENSE
