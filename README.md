@@ -2,8 +2,7 @@
 Stable diffusion offline txt2image program made with python.
 
 # Requirements
-8GB RAM or VRAM
-15GB disk space
+Recommended 8GB RAM or VRAM and 15GB disk space
 
 # Credits
 Sergei Kokota (Artist)
