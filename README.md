@@ -1,14 +1,14 @@
 # txt2img
 Stable diffusion offline txt2image program made with python.
 
-Requirements
+# Requirements
 8GB RAM or VRAM
 15GB disk space
 
-Credits
+# Credits
 Sergei Kokota (Artist)
 Stable_Yogi (Models)
 Stable Diffusion (Research)
 
-Stable Diffusion license:
+# Stable Diffusion license:
 https://github.com/CompVis/stable-diffusion/blob/main/LICENSE
