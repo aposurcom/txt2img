@@ -5,7 +5,7 @@ Stable diffusion offline txt2image program made with python.
 [20250204 txt2img v1 program usage tutorial](https://www.youtube.com/watch?v=oWH21B5XRZQ) (YouTube video)
 
 ## Demo
-[20250204 txt2img v1 program usage tutorial] ![Demo Image 1](demo1.png) (https://www.youtube.com/watch?v=oWH21B5XRZQ)
+![Demo Image 1](demo1.png)
 
 ## Requirements
 SD supported downloaded model for example:
